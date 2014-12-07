@@ -1,15 +1,15 @@
 {
-    "name": "patrickkunka/mixitup",
+    "name": "roachhd/mixitup",
     "type": "library",
-    "homepage": "https://mixitup.kunkalabs.com/",
+    "homepage": "https://roachhd.github.io/mixitup/",
     "license": [
        "CC-BY-NC-4.0",
        "proprietary"
     ],
     "authors": [
         {
-            "name": "KunkaLabs Limited",
-            "homepage": "https://kunkalabs.com/"
+            "name": "roachhd",
+            "homepage": "https://katieball.me/"
         }
     ],
     "description": "MixItUp is a jQuery plugin providing animated filtering and sorting.",
