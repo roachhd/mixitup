@@ -1,7 +1,7 @@
 MixItUp
 =========
 
-### What is MixItUp?
+### What is MixItUp?  
 
 MixItUp is a jQuery plugin providing animated filtering and sorting.
 
